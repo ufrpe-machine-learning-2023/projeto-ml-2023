@@ -1,5 +1,5 @@
 ## Tema:
-Previsáo de numero de docentes nas escolas por município a cada ano
+Previsão de numero de docentes nas escolas por município a cada ano
 
 ## Datasets:
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/educacao-basica
@@ -10,7 +10,7 @@ Avaliação do número de docentes nas escolas brasileiras por município
 ## Motivação
 *Qual problema pensou em resolver e por que ele é relevante?*
 
-Direcionamento de políticas públicas e verbas governamentais para a formação de docentes tendo em vista a diversidade de gênero, faixa etária, vínculo empregatício e formação acadêmica a fim de ter uma maior distribuição por município. Sendo esses dados e predições necessárias para a alocação de pessoas e recursos em regiões que apresentam déficit de docentes.
+Este trabalho tem como objetivo identificar oportunidades para direcionamento de políticas públicas e verbas governamentais para a formação de docentes tendo em vista a diversidade de gênero e faixa etária a fim de ter uma maior distribuição por município. Sendo esses dados e predições necessárias para a alocação de pessoas e recursos em regiões que apresentam déficit de docentes.
 
 ## Métodos
 *Quais técnicas de aprendizagem de máquina*
@@ -24,7 +24,6 @@ Avaliação cruzada dos algoritmos utilizados - Para evitar conjuntos de dados h
 - Análise de características de docentes por região/município
 - Predição do número de docentes no ano subsequente
 - Estimativa da demanda de docentes por município
-- Estimativa da formação acadêmica dos docentes no ano subsequente
 
 **Quais bases de dados serão utilizadas**
 
