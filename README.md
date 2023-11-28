@@ -12,6 +12,12 @@ Avaliação do número de docentes nas escolas brasileiras por município
 
 Este trabalho tem como objetivo identificar oportunidades para direcionamento de políticas públicas e verbas governamentais para a formação de docentes tendo em vista a diversidade de gênero e faixa etária a fim de ter uma maior distribuição por município. Sendo esses dados e predições necessárias para a alocação de pessoas e recursos em regiões que apresentam déficit de docentes.
 
+## Relevância
+
+Tendo em vista a necessidade de formação de pessoas no ensino básico e médio, é essencial fazer uma previsão de como esses profissionais estão sendo alocados e formados por município para que se possa basear políticas públicas e promover ou direcionar profissionais para uma determinada região a depender da demanda.
+
+O problema de previsão de população, seja população de um país, estado, empresa, área de atuação, entre outros segmentos de pessoas, é amplamente analisado para basear decisões de contratação, demissão, aposentadoria e investimentos. Dessa forma, a predição feita nesse projeto tem como objetivo servir de insumo para essas decisões baseadas em docentes do ensino médio de escolas brasileiras separadas por município.
+
 ## Métodos
 *Quais técnicas de aprendizagem de máquina*
 
