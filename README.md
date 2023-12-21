@@ -33,7 +33,7 @@ Avaliação cruzada dos algoritmos utilizados - Para evitar conjuntos de dados h
 
 **Quais bases de dados serão utilizadas**
 
-Sinopse Estatística da Educação Básica dos anos entre 2000 e 2022, disponível em - https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/educacao-basica
+Sinopse Estatística da Educação Básica dos anos entre 2007 e 2022, disponível em - https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/educacao-basica
 
 **Como pretende avaliar os resultados**
 
